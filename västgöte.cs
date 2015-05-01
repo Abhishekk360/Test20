@@ -6,8 +6,11 @@ namespace DemoSwedish
 	{
 		public västgöte ()
 		{
+			Console.WriteLine ("hello");
+		
 		}
 
+	
 	}
 }
 
